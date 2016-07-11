@@ -1,0 +1,1 @@
+Display the basic information of Android system
